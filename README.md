@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Divine Ezelibe</h1>
+<h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="29px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">,</h1>
 <h3 align="center">💻💰Software Engineer, 💡Python, 👑PHP, 📍Flutter developer</h3>
+
+<p>I am Divine Ezelibe 😊, for the past 13 years I have been a resilient and unrepentant contributor in the tech space. My experiences includes, building information systems (software), training and consulting. By Design, I am an Ideator and a Strategist (For me, there is always a way or another).🤔💻🤖
+
+📍Building systems: As a trained computer scientist and a certified software engineer by and not limited to #alx_africa, I have been privileged to play the lead role in many software development projects (Web Technologies, Mobile App), on many occasions as well, joined the implementation team as a full stack developer. I am a PYTHON programmer, also very experienced with PHP, with a satisfactory touch of C Lang, and has done a lot with DART :) / FLUTTER.
+
+📍Training/Teaching: Over the years, i have come to realize that I am addicted to research and saliently, teaching, it's a talent I nurtured and consciously improved hitherto. 15+ years experienced in teaching and has recorded no dull testimonial from my students after any session.
+
+📍Technical Writer: Writing codes for me is easier than writing English, but when I am determined to combine them both to share value, it can stir an ocean. 😋
+
+📍Side Attractions: This same man is a lover of music, He plays the piano and sings too.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divineezelibe" alt="divineezelibe" /></a> </p>
 
