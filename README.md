@@ -71,14 +71,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divineezelibe" alt="divineezelibe" /></a> </p>
 
+<h3>Most Used Languages</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divineezelibe&show_icons=true&locale=en&layout=compact" alt="divineezelibe" /></p>
+
 <p align="left"> <a href="https://twitter.com/divineezelibe" target="blank"><img src="https://img.shields.io/twitter/follow/divineezelibe?logo=twitter&style=for-the-badge" alt="divineezelibe" /></a> </p>
 <br><br>
-- 📫 How to reach me **divineezelibe.e@gmail.com**
 
+- 📫 How to reach me **divineezelibe.e@gmail.com**
 - ⚡ Fun fact **I am a music minister :)**
 
 
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divineezelibe&show_icons=true&locale=en&layout=compact" alt="divineezelibe" /></p>
