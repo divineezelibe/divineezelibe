@@ -74,8 +74,9 @@
 <h3>Most Used Languages</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divineezelibe&show_icons=true&locale=en&layout=compact" alt="divineezelibe" /></p>
 
+
+<h3>How to reach me</h3>
 <p align="left"> <a href="https://twitter.com/divineezelibe" target="blank"><img src="https://img.shields.io/twitter/follow/divineezelibe?logo=twitter&style=for-the-badge" alt="divineezelibe" /></a> </p>
-<br><br>
 
 - 📫 How to reach me **divineezelibe.e@gmail.com**
 - ⚡ Fun fact **I am a music minister :)**
